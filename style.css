@@ -1,0 +1,9 @@
+#sidebar{
+    width: 250px;
+    height: 100vh;
+    background-color: red;
+    display: none;
+}
+div#sidebar.active{
+    display: flex !important;
+}
